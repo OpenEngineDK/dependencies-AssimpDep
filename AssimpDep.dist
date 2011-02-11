@@ -8,5 +8,6 @@ darcs-dev /dependencies/AssimpDep    fh.daimi.au.dk:/users/cgd/code/dependencies
 #data files
 win32 /dependencies/AssimpDep http://openengine.dk/data/dependencies/assimp-2.0.863.tar.gz
 linux /dependencies/AssimpDep http://openengine.dk/data/dependencies/assimp-2.0.863.tar.gz
+linux64 /dependencies/AssimpDep http://openengine.dk/data/dependencies/assimp-2.0.863.tar.gz
 darwin /dependencies/AssimpDep http://openengine.dk/data/dependencies/assimp-2.0.863.tar.gz
 
