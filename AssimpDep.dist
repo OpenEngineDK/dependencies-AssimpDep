@@ -1,9 +1,9 @@
 # Assimp dependencies
 
 # standard set of extensions
-darcs /dependencies/AssimpDep        http://openengine.dk/code/dependencies/AssimpDep
+git /dependencies/AssimpDep        https://github.com/OpenEngineDK/dependencies-AssimpDep.git
 
-darcs-dev /dependencies/AssimpDep    fh.daimi.au.dk:/users/cgd/code/dependencies/AssimpDep
+git-dev /dependencies/AssimpDep    git@github.com:OpenEngineDK/dependencies-AssimpDep.git
 
 #data files
 win32 /dependencies/AssimpDep http://openengine.dk/data/dependencies/assimp-2.0.863.tar.gz
